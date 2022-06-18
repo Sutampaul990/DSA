@@ -7,4 +7,4 @@ Day-03 (Bit Manipulation)
 
 Day-04 (Solving Problems)
 
-Day-04 (Array)
+Day-05 (Array)
