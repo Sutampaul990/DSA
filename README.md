@@ -8,3 +8,6 @@ Day-03 (Bit Manipulation)
 Day-04 (Solving Problems)
 
 Day-05 (Array)
+
+Day-06 (Binary Search)
+
