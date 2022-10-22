@@ -1,11 +1,11 @@
 #include<stdio.h>
 //Time Complexity of the Below method O(n) & Space Complexity O(1)
-int fibo(int n)
+int fibo(int num)
 {
-    if(n==0||n==1)
-    return n;
+    if(num==0||num==1)
+    return num;
     int a=0,b=1,c;
-    for(int i=1;i<n;i++){
+    for(int i=1;i<num;i++){
         c=a+b;
         a=b;
         b=c;
